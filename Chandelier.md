@@ -8,8 +8,8 @@
   
 * Name: Aemielvin Loremia
   * Nickname: Cannot
-  * Github: xbrox
+  * Github: erocrizs
   * Major: 3-BS CS
-  * E-mail: do.nothing@gmail.com
-  * Favorite Game(s): Guild Wars 2, Shadow of the Colossus
-  * Class Expectations: To discover my own worth in this world of never-ending possibilities.
+  * E-mail: aemielvin.loremia@gmail.com
+  * Favorite Game(s): Legend of Legaia
+  * Class Expectations: We make games. Duh.
