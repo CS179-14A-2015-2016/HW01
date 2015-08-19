@@ -2,7 +2,7 @@
   * Nickname: John	
   * Github:	iaculatio
   * Major: 5-BS Computer Engineering
-  * E-mail: iaculatio@gmail.com/jrgarcia.domo@gmail.com
+  * E-mail: iaculatio@gmail.com / jrgarcia.domo@gmail.com
   * Favorite Game(s): Ar Tonelico Series
   * Class Expectations: Learn more about how game development work
 * Name: Renard Calalang
